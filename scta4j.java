@@ -411,7 +411,7 @@ public class scta4j extends Applet
 	public void init()
 	{
 		pg1=new Panel();
-		pg1.add(new Label("Stocastic Catastrophe Theory Analysis for Java"));
+		pg1.add(new Label("Stocastic Catastrophe Theoretical Analysis for Java"));
 		add(pg1,"North");
 		pg2=new Panel();
 		add(pg2,"Center");
